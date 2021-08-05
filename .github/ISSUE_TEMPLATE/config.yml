@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+contact_links:
+    - name: Project ideas or issues
+      url: 'https://to.contao.org/association'
+      about: >
+          If you have a general idea or problem that could improve the Contao universum,
+          please send an email to association@contao.org.
+    - name: Contao support channels
+      url: https://to.contao.org/support
+      about: If you need help for your Contao website, visit our support website.
